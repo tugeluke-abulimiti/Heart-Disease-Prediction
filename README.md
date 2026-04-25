@@ -1,6 +1,8 @@
 ## Open in Google Colab
 
-[![Open in Colab]](https://colab.research.google.com/drive/15NTKUvnLdXvJ9uLbz7k8q1sBIvd2izJi?usp=sharing）
+# Heart Disease Prediction Project
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15NTKUvnLdXvJ9uLbz7k8q1sBIvd2izJi?usp=sharing)
 
 # Heart Disease Prediction Project
 
